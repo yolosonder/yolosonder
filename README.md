@@ -16,5 +16,5 @@
 </div>
 
 <div align="center"> 
-  <img src="https://github-readme-activity-graph-chi.vercel.app/graph?username=yolosonder" alt="Contributions Graph"/>
+  <img src="https://github-readme-activity-graph-chi.vercel.app/graph?username=yolosonder" alt="Contribution Graph"/>
 </div>
